@@ -1,0 +1,61 @@
+# TOUSTY DZMITRY  
+**Software Engineer**  
+
+---
+
+## **Контакты**  
+- **Телефон:** +375 29 390-64-87  
+- **Email:** dzmitry.toustyy@gmail.com
+- **LinkedIn:** [linkedin.com/in/dzmitry-tousty-976b33247](https://www.linkedin.com/in/dzmitry-tousty-976b33247)  
+- **GitHub:** [github.com/Tousty-Dzmitry](https://github.com/Tousty-Dzmitry)  
+- **Telegram:** [t.me/Tolstyy_DV](https://t.me/Tolstyy_DV)  
+
+---
+
+## **Опыт работы**  
+
+### **Личные проекты**  
+- **Phone-Book**  
+  - **Ссылка:** [github.com/Tousty-Dzmitry/Phone-Book](https://github.com/Tousty-Dzmitry/Phone-Book)  
+  - Разработал проект "Phone-Book", который позволяет записывать телефонные номера, оставлять заметки и удалять ненужные записи.  
+
+- **Django Tutorial**  
+  - **Ссылка:** [github.com/Tousty-Dzmitry/django-tutorial](https://github.com/Tousty-Dzmitry/django-tutorial)  
+  - Выполнил учебный проект с использованием фреймворка Django.  
+
+- **Scrapy Tutorial**  
+  - **Ссылка:** [github.com/Tousty-Dzmitry/scrapy-tutorial](https://github.com/Tousty-Dzmitry/scrapy-tutorial)  
+  - Разработал веб-скрепер для автоматизированного сбора данных с сайтов с использованием Scrapy.  
+
+---
+
+## **Навыки**  
+- **Языки программирования:** Python  
+- **Фреймворки:** Django, aiogram 3, FSM  
+- **Базы данных:** SQL  
+- **Инструменты:** Git, GitHub, Linux  
+- **Библиотеки:** OpenCV, tkinter  
+- **Другое:** Компьютерное зрение, веб-скрейпинг  
+
+---
+
+## **Образование и курсы**  
+- **2022 – Belhard**  
+  - Курс по Python  
+- **2022 – Stepik**  
+  - "Поколение Python": курс для начинающих  
+- **2023 – Stepik**  
+  - Интерактивный тренажер по SQL  
+- **2023 – Stepik**  
+  - Компьютерное зрение / библиотека OpenCV  
+
+---
+
+## **Языки**  
+- **Английский:** A2 (Elementary)  
+- **Русский:** C2 (Proficiency)  
+
+---
+
+## **О себе**  
+Я начинающий Python-разработчик с практическим опытом. Стремлюсь писать чистый, оптимизированный и безопасный код. Обладаю аналитическим складом ума, постоянно учусь новому и эффективно сотрудничаю в команде. Люблю находить решения для новых задач. Увлечен изучением лучших практик и постоянным улучшением технических навыков для достижения эффективных результатов как для пользователей, так и для заинтересованных сторон.  
