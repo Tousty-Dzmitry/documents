@@ -52,8 +52,8 @@
 ---
 
 ## **Languages**  
-- **English:** A2 (Elementary)  
-- **Russian:** C2 (Proficiency)  
+- **English:** A2 (Pre-intermediate)  
+- **Russian:** C1 (Proficiency)  
 
 ---
 
