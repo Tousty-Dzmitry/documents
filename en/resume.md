@@ -48,7 +48,8 @@
   - Interactive SQL Simulator  
 - **2023 – Stepik**  
   - Computer Vision / OpenCV Library  
-
+- **2025 - Stepik**
+  - SQL Basics
 ---
 
 ## **Languages**  
